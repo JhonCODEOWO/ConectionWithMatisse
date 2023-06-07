@@ -1,0 +1,12 @@
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\bin\Debug\ConexionMatisse.exe.config
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\bin\Debug\ConexionMatisse.exe
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\bin\Debug\ConexionMatisse.pdb
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\bin\Debug\MatisseNet.dll
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.csproj.AssemblyReference.cache
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.Form1.resources
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.Properties.Resources.resources
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.csproj.GenerateResource.cache
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.csproj.CoreCompileInputs.cache
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.csproj.CopyComplete
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.exe
+C:\Users\eljho\source\repos\ConexionMatisse\ConexionMatisse\obj\Debug\ConexionMatisse.pdb
